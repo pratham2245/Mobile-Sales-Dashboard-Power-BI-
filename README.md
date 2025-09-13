@@ -9,3 +9,5 @@
 
 # Mobile Sales Chart:
 https://julius.ai/s/html/45e5e205-28f8-4f49-a72b-db1c1ddfabfc?utm_source=share&utm_campaign=html&utm_medium=referral.
+
+* Tools used: Power BI, Julius.ai(for 3D charts).
