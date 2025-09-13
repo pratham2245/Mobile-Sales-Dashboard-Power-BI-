@@ -8,4 +8,3 @@
 
 
 # Mobile Sales Chart:
-file:///C:/Users/Prath/Downloads/mobile_sales_3d_scatter.html
